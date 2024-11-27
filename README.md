@@ -28,4 +28,25 @@ Full-stack developer passionate about creating impactful applications. Currently
 ## 🤝 Let's Connect
 - 📧 Email: bganesh@mun.ca
 
+<h1 align="center">💻 Try My Terminal!</h1>
+
+```bash
+visitor@github:~$ help
+
+Available commands:
+- joke     : Get a random programming joke
+- weather  : Check the weather
+- skills   : List my programming skills
+- contact  : Get my contact info
+- clear    : Clear the terminal
+
+Type a command by creating a new issue with the command as the title!
+```
+
+Last Command: None
+Last Output: Welcome! Type 'help' to see available commands.
+
+\<!--TERMINAL_SECTION:START-->
+<!-- This section will be automatically updated by GitHub Actions -->
+\<!--TERMINAL_SECTION:END-->
 
