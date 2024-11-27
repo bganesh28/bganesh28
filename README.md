@@ -28,25 +28,25 @@ Full-stack developer passionate about creating impactful applications. Currently
 ## 🤝 Let's Connect
 - 📧 Email: bganesh@mun.ca
 
-<h1 align="center">💻 Try My Terminal!</h1>
+<h1 align="center">🐱 Feed The Cat!</h1>
 
-```bash
-visitor@github:~$ help
-
-Available commands:
-- joke     : Get a random programming joke
-- weather  : Check the weather
-- skills   : List my programming skills
-- contact  : Get my contact info
-- clear    : Clear the terminal
-
-Type a command by creating a new issue with the command as the title!
+```
+|\---/|
+| o_o |  Feed me!
+ \_^_/
 ```
 
-Last Command: None
-Last Output: Welcome! Type 'help' to see available commands.
+| Action | Result |
+|--------|--------|
+| [🐟 Feed Fish](https://github.com/bgansh28/bgansh28/issues/new?title=feed-fish) | Cat becomes happy |
+| [🥛 Give Milk](https://github.com/bgansh28/bgansh28/issues/new?title=give-milk) | Cat drinks milk |
+| [🧶 Play](https://github.com/bgansh28/bgansh28/issues/new?title=play-yarn) | Cat plays with yarn |
 
-\<!--TERMINAL_SECTION:START-->
-<!-- This section will be automatically updated by GitHub Actions -->
-\<!--TERMINAL_SECTION:END-->
+Current Mood: Hungry
+
+Last Fed: Never
+
+\<!--PET_STATUS:START-->
+
+\<!--PET_STATUS:END-->
 
