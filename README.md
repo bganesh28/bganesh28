@@ -27,26 +27,3 @@ Full-stack developer passionate about creating impactful applications. Currently
 
 ## 🤝 Let's Connect
 - 📧 Email: bganesh@mun.ca
-
-<h1 align="center">🐱 Feed The Cat!</h1>
-
-```
-|\---/|
-| o_o |  Feed me!
- \_^_/
-```
-
-| Action | Result |
-|--------|--------|
-| [🐟 Feed Fish](https://github.com/bgansh28/bgansh28/issues/new?title=feed-fish) | Cat becomes happy |
-| [🥛 Give Milk](https://github.com/bgansh28/bgansh28/issues/new?title=give-milk) | Cat drinks milk |
-| [🧶 Play](https://github.com/bgansh28/bgansh28/issues/new?title=play-yarn) | Cat plays with yarn |
-
-Current Mood: Hungry
-
-Last Fed: Never
-
-\<!--PET_STATUS:START-->
-
-\<!--PET_STATUS:END-->
-
